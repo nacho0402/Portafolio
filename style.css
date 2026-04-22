@@ -3,10 +3,10 @@
    ======================================== */
 
 :root {
-    --bg-primary: #f0ede8;
-    --bg-secondary: #e8e4de;
+    --bg-primary: #ffffff;
+    --bg-secondary: #fcfcfc;
     --bg-card: #ffffff;
-    --bg-card-hover: #fafaf8;
+    --bg-card-hover: #fafafa;
     --text-primary: #111111;
     --text-secondary: #555555;
     --text-muted: #888888;
@@ -166,14 +166,14 @@ img { display: block; max-width: 100%; }
     z-index: 1000;
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
-    background: rgba(240, 237, 232, 0.8);
+    background: rgba(255, 255, 255, 0.8);
     border-bottom: 1px solid transparent;
     transition: border-color 0.4s ease, background 0.4s ease;
 }
 
 .navbar.scrolled {
     border-bottom-color: var(--border);
-    background: rgba(240, 237, 232, 0.95);
+    background: rgba(255, 255, 255, 0.95);
 }
 
 .nav-logo .logo-link {
@@ -1201,7 +1201,7 @@ img { display: block; max-width: 100%; }
 .project-overlay {
     position: absolute;
     inset: 0;
-    background: rgba(240, 237, 232, 0.85);
+    background: rgba(255, 255, 255, 0.85);
     backdrop-filter: blur(4px);
     display: flex;
     align-items: center;
