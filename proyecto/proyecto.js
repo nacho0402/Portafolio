@@ -85,7 +85,7 @@ const PROJECTS = {
                 text: 'Plataforma alojada en producción con una gestión de base de datos eficiente y una interfaz gamer totalmente funcional y adaptable a cualquier pantalla.'
             }
         ],
-        visitUrl: 'https://ignacioamutio.vercel.app',
+        visitUrl: 'https://ijamtech.vercel.app',
         gallery: [
             { src: '../assets/proyecto2foto2.png', alt: 'IjamTech - Captura 1' },
             { src: '../assets/proyecto2foto3.png', alt: 'IjamTech - Captura 2' }
